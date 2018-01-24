@@ -215,6 +215,12 @@ Paste into chrome console.
 
 
 
+Now paste into app.js and open index.html in a browser. 
+
+
+
+
+
 # HTML
 
 
