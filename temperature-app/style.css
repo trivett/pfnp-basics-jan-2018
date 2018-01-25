@@ -1,3 +1,8 @@
-#freezing-warning, #boiling-warning{
-  display: none;
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+}
+
+#temperature-conversion-form {
+ border: 1px solid black; 
 }
